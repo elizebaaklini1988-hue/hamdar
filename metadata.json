@@ -1,0 +1,6 @@
+{
+  "name": "Hamdar Men's Wear",
+  "description": "Official website for Hamdar Men's Wear in Saadnayel, Lebanon. Premium tailored suits, blazers, smart casual collections, footwear, and accessories with delivery across Lebanon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
